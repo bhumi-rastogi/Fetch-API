@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(71, 13, 71);
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 12%;
+  color: white;
+}
+.heat {
+  padding: 10%;
+  font-size: 100px;
+  font-weight: bolder;
+  text-shadow: 6px 6px black;
+}
+
+.information {
+  font-size: 15px;
+  padding: 5px;
+}
+
+.area {
+  font-size: 50px;
+}
